@@ -1,12 +1,7 @@
 # HabitSphere
 
-Terminal-based habit tracker with JSON persistence, streaks, completion analytics, weekly/monthly reports, recommendations, logging, and optional charts.
+📖 Project Overview
 
-## Run
+HabitSphere is a Python-based web application designed to help users build positive habits, maintain consistency, and improve productivity through intelligent habit tracking and analytics. The application enables users to create personal habits, monitor daily progress, analyze behavioral patterns, and generate insightful reports that encourage long-term habit formation.
 
-```powershell
-pip install -r requirements.txt
-python habitsphere.py
-```
-
-Data is saved in `habits_data.json` beside the application. Pandas powers the analytics table and Matplotlib powers the chart; the core tracker still runs if they are not installed.
+Unlike traditional habit trackers, HabitSphere combines habit management with data analytics to provide meaningful insights into user performance, helping users identify strengths, recognize improvement areas, and achieve their personal goals more effectively.
