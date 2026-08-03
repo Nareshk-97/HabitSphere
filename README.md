@@ -31,23 +31,23 @@ Receive personalized improvement suggestions based on historical data.
 The application transforms raw habit data into meaningful insights that help users improve their productivity and maintain long-term consistency.
 
 
-# 🚀 Key Features
+## 🚀 Key Features
 
-
-🔐 User Registration & Secure Login
-➕ Create, Update & Delete Habits
-🎯 Daily, Weekly & Monthly Goal Tracking
-✅ Daily Habit Completion Tracking
-📈 Habit Streak Monitoring
-📊 Habit Completion Percentage Calculation
-📉 Consistency Analysis
-📅 Weekly Progress Reports
-📆 Monthly Progress Reports
-📂 CSV & TXT Report Generation
-📊 Interactive Data Visualization
-💡 Personalized Improvement Suggestions
-🗄️ MySQL Database Integration
-🌐 User-Friendly Web Interface
+- 🔐 User Registration & Secure Login
+- ➕ Create, Update & Delete Habits
+- 🎯 Daily, Weekly & Monthly Goal Tracking
+- ✅ Daily Habit Completion Tracking
+- 📈 Habit Streak Monitoring
+- 📊 Habit Completion Percentage Calculation
+- 📉 Consistency Analysis
+- 📅 Weekly Progress Reports
+- 📆 Monthly Progress Reports
+- 📂 CSV Report Generation
+- 📄 TXT Report Generation
+- 📊 Interactive Data Visualization
+- 💡 Personalized Improvement Suggestions
+- 🗄️ MySQL Database Integration
+- 🌐 User-Friendly Web Interface
 
 
 # ⭐ Project Highlights
