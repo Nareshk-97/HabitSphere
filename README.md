@@ -1,13 +1,13 @@
 # HabitSphere
 
-# Project Overview
+# 📖 Project Overview
 
 HabitSphere is a Python-based web application designed to help users build positive habits, maintain consistency, and improve productivity through intelligent habit tracking and analytics. The application enables users to create personal habits, monitor daily progress, analyze behavioral patterns, and generate insightful reports that encourage long-term habit formation.
 
 Unlike traditional habit trackers, HabitSphere combines habit management with data analytics to provide meaningful insights into user performance, helping users identify strengths, recognize improvement areas, and achieve their personal goals more effectively.
 
 
-# Problem Statement
+# 🎯 Problem Statement
 
 Developing healthy habits requires consistency, discipline, and regular progress monitoring. Traditional tracking methods such as notebooks or simple checklists often fail to provide meaningful insights into user behavior, making it difficult to identify trends, measure progress, and stay motivated.
 
@@ -50,65 +50,109 @@ The application transforms raw habit data into meaningful insights that help use
 - 🌐 User-Friendly Web Interface
 
 
-# ⭐ Project Highlights
+## ⭐ Project Highlights
+
+- Combines habit tracking with performance analytics.
+- Identifies consistency trends using historical data.
+- Helps users recognize successful and unsuccessful habits.
+- Generates actionable insights instead of simply storing records.
+- Supports report generation for progress evaluation.
+- Designed with scalability for future AI-powered enhancements.
+
+## 🛠️ Technologies Used
+
+- Python
+- Object-Oriented Programming (OOP)
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Pandas
+- JSON
+- Matplotlib
+- Logging
+- File Handling
 
 
-HabitSphere stands out because it goes beyond simple habit tracking by integrating analytics and behavioral insights.
+## ⚙️ Installation & Setup
 
-Highlights
-Combines habit tracking with performance analytics.
-Identifies consistency trends using historical data.
-Helps users recognize successful and unsuccessful habits.
-Generates actionable insights instead of simply storing records.
-Supports report generation for progress evaluation.
-Designed with scalability for future AI-powered enhancements.
+### 1. Clone the Repository
 
-# 🛠️ Technologies Used
-
-
-Python
-Object-Oriented Programming (OOP)
-Flask
-HTML5
-CSS3
-JavaScript
-MySQL
-Data Processing
-Pandas
-JSON
-Matplotlib
-
-
-# ⚙️ Installation & Setup
-
-1️⃣ Clone the Repository
+```bash
 git clone https://github.com/Nareshk-97/HabitSphere.git
-2️⃣ Navigate to the Project Folder
-cd HabitSphere
-3️⃣ Install Required Packages
-pip install -r requirements.txt
-4️⃣ Run the Application
-python app.py
-5️⃣ Open in Browser
-http://127.0.0.1:8000
+```
 
-# 📈 Future Enhancements
+### 2. Navigate to the Project Folder
+
+```bash
+cd HabitSphere
+```
+
+### 3. Install Required Packages
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Application
+
+```bash
+python app.py
+```
+
+### 5. Open in Browser
+
+```
+http://127.0.0.1:8000
+```
+
+## 📈 Future Enhancements
 
 The application can be further enhanced with:
 
-🤖 AI-Powered Habit Recommendations
-📊 Habit Success Prediction
-🔔 Smart Reminder Notifications
-🔗 Habit Correlation Analysis
-📈 Productivity Score Calculation
-🎯 Personalized Goal Planning
-☁️ Cloud Deployment
-📱 Mobile Responsive Dashboard
+- 🤖 AI-Powered Habit Recommendations
+- 📊 Habit Success Prediction
+- 🔔 Smart Reminder Notifications
+- 🔗 Habit Correlation Analysis
+- 📈 Productivity Score Calculation
+- 🎯 Personalized Goal Planning
+- ☁️ Cloud Deployment
+- 📱 Mobile Responsive Dashboard
 
 # 📸 Project Screenshots
 Login Page
 
 <img width="1919" height="837" alt="Screenshot 2026-08-03 234056" src="https://github.com/user-attachments/assets/2539c16e-1761-4d08-a37f-106dab3f9062" />
+
+- DashBoard
+  <img width="1919" height="834" alt="Screenshot 2026-08-03 234319" src="https://github.com/user-attachments/assets/06e4c033-78ca-4041-ba71-22638fec65a4" />
+
+- Habit Management
+  
+<img width="1919" height="832" alt="Screenshot 2026-08-03 234435" src="https://github.com/user-attachments/assets/4f179311-0bef-42e2-9c38-40407fcb9317" />
+
+- Reports
+
+   <img width="1916" height="828" alt="Screenshot 2026-08-03 234341" src="https://github.com/user-attachments/assets/4b3a5790-c199-49b9-89bf-d2cd5c8d2240" />
+
+- Analytical Charts
+
+  <img width="1919" height="840" alt="Screenshot 2026-08-03 234413" src="https://github.com/user-attachments/assets/fdfeb907-7619-4541-8923-4e6acaad0d7e" />
+
+
+
+## 👨‍💻 Developer
+
+Naresh Kille
+- GitHub: https://github.com/Nareshk-97
+- LinkedIn: https://www.linkedin.com/in/nareshkille/
+
+## 📄 License
+
+HabitSphere is a professional portfolio project that demonstrates software engineering, backend development, database management, analytics, and user interface design. It has been developed to showcase practical problem-solving and full-stack development skills.
+
+© 2026 Naresh Kille. All rights reserved.
 
 
 
