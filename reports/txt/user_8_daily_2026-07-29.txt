@@ -1,0 +1,6 @@
+HabitSphere Daily Report
+Generated: 2026-07-29 10:18
+Overall completion: 40.0%
+
+ habit_id     habit_name status  completion_percentage  current_streak  longest_streak  consistency_score  success_rate  missed_days
+        7 Reading Comics active                   40.0               1               1              100.0          40.0            0

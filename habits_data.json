@@ -1,0 +1,11 @@
+{
+  "habits": [
+    {
+      "name": "Reading books",
+      "frequency": "daily",
+      "goal": 10,
+      "created_on": "2026-07-26",
+      "completions": []
+    }
+  ]
+}

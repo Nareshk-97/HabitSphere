@@ -1,0 +1,3 @@
+habit_id,habit_name,status,completion_percentage,current_streak,longest_streak,consistency_score,success_rate,missed_days
+7,Reading Comics,active,70.0,2,2,100.0,70.0,0
+8,reading books,active,0.0,0,0,0.0,0.0,1

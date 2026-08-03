@@ -1,0 +1,7 @@
+HabitSphere Daily Report
+Generated: 2026-08-02 18:36
+Overall completion: 0%
+
+Empty DataFrame
+Columns: [habit_name, completion_percentage, current_streak, longest_streak, consistency_score, success_rate, missed_days]
+Index: []

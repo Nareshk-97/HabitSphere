@@ -1,0 +1,500 @@
+2026-07-27 01:29:54,795 | INFO | MySQL schema initialized
+2026-07-27 01:39:37,873 | INFO | Registered user_id=1
+2026-07-27 01:39:38,290 | WARNING | Registration rejected for an existing email
+2026-07-27 01:39:38,434 | INFO | User logged in: user_id=1
+2026-07-27 01:39:38,600 | WARNING | Invalid login attempt for email=phase2-test-37177db599c7401085a5f3f80cca52f3@example.com
+2026-07-27 01:46:28,022 | INFO | Dashboard statistics generated for user_id=0
+2026-07-27 01:48:22,897 | INFO | Registered user_id=3
+2026-07-27 01:48:23,054 | INFO | User logged in: user_id=3
+2026-07-27 01:48:23,055 | INFO | Created session for user_id=3
+2026-07-27 01:48:23,070 | INFO | Dashboard statistics generated for user_id=3
+2026-07-27 01:48:23,099 | INFO | Dashboard statistics generated for user_id=3
+2026-07-27 01:53:32,629 | INFO | Registered user_id=4
+2026-07-27 01:53:32,779 | INFO | User logged in: user_id=4
+2026-07-27 01:53:32,780 | INFO | Created session for user_id=4
+2026-07-27 01:53:32,802 | INFO | Habit created: habit_id=3 user_id=4
+2026-07-27 01:53:32,871 | INFO | Habit updated: habit_id=3 user_id=4
+2026-07-27 01:53:32,902 | INFO | Habit created: habit_id=4 user_id=4
+2026-07-27 01:53:32,924 | WARNING | Duplicate active habit rejected for user_id=4
+2026-07-27 01:53:32,946 | INFO | Habit deleted: habit_id=4 user_id=4
+2026-07-27 01:53:32,967 | INFO | Habit deleted: habit_id=3 user_id=4
+2026-07-27 01:53:32,993 | INFO | Dashboard statistics generated for user_id=4
+2026-07-29 10:00:31,999 | INFO | Registered user_id=5
+2026-07-29 10:00:32,069 | INFO | Habit created: habit_id=5 user_id=5
+2026-07-29 10:00:32,124 | INFO | Completion recorded: habit_id=5 user_id=5
+2026-07-29 10:00:32,217 | INFO | Analytics calculated for user_id=5
+2026-07-29 10:00:32,282 | INFO | Analytics calculated for user_id=5
+2026-07-29 10:00:32,328 | INFO | weekly report generated for user_id=5
+2026-07-29 10:00:32,392 | INFO | Analytics calculated for user_id=5
+2026-07-29 10:00:33,501 | INFO | Charts generated for user_id=5
+2026-07-29 10:02:33,620 | INFO | Registered user_id=6
+2026-07-29 10:02:34,029 | INFO | User logged in: user_id=6
+2026-07-29 10:02:34,030 | INFO | Created session for user_id=6
+2026-07-29 10:02:34,086 | INFO | Habit created: habit_id=6 user_id=6
+2026-07-29 10:02:34,141 | INFO | Completion recorded: habit_id=6 user_id=6
+2026-07-29 10:02:34,203 | INFO | Analytics calculated for user_id=6
+2026-07-29 10:02:34,326 | INFO | Analytics calculated for user_id=6
+2026-07-29 10:02:34,373 | INFO | Dashboard statistics generated for user_id=6
+2026-07-29 10:02:34,440 | INFO | Analytics calculated for user_id=6
+2026-07-29 10:02:34,472 | INFO | weekly report generated for user_id=6
+2026-07-29 10:02:34,540 | INFO | Analytics calculated for user_id=6
+2026-07-29 10:02:35,491 | INFO | Charts generated for user_id=6
+2026-07-29 10:02:35,599 | INFO | Habit updated: habit_id=6 user_id=6
+2026-07-29 10:02:35,648 | INFO | Dashboard statistics generated for user_id=6
+2026-07-29 10:02:35,696 | INFO | Habit deleted: habit_id=6 user_id=6
+2026-07-29 10:02:35,729 | INFO | Dashboard statistics generated for user_id=6
+2026-07-29 10:02:35,739 | INFO | Session revoked
+2026-07-29 10:06:49,502 | INFO | Registered user_id=7
+2026-07-29 10:06:49,924 | INFO | User logged in: user_id=7
+2026-07-29 10:06:49,925 | INFO | Created session for user_id=7
+2026-07-29 10:06:49,951 | INFO | Application settings saved
+2026-07-29 10:06:49,951 | INFO | Application preferences updated
+2026-07-29 10:12:19,572 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-07-29 10:13:13,689 | INFO | Registered user_id=8
+2026-07-29 10:13:19,403 | INFO | User logged in: user_id=8
+2026-07-29 10:13:19,404 | INFO | Created session for user_id=8
+2026-07-29 10:13:19,461 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:13:19,481 | INFO | Dashboard statistics generated for user_id=8
+2026-07-29 10:14:07,567 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:15:46,329 | INFO | Habit created: habit_id=7 user_id=8
+2026-07-29 10:15:46,403 | INFO | Dashboard statistics generated for user_id=8
+2026-07-29 10:16:21,419 | INFO | Habit updated: habit_id=7 user_id=8
+2026-07-29 10:16:21,489 | INFO | Dashboard statistics generated for user_id=8
+2026-07-29 10:16:25,026 | INFO | Habit updated: habit_id=7 user_id=8
+2026-07-29 10:16:25,087 | INFO | Dashboard statistics generated for user_id=8
+2026-07-29 10:16:44,093 | INFO | Completion recorded: habit_id=7 user_id=8
+2026-07-29 10:16:44,157 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:16:44,228 | INFO | Dashboard statistics generated for user_id=8
+2026-07-29 10:16:44,283 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:17:43,272 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:17:47,475 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:18:01,029 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:18:01,094 | INFO | daily report generated for user_id=8
+2026-07-29 10:18:03,200 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:18:03,224 | INFO | weekly report generated for user_id=8
+2026-07-29 10:18:04,640 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:18:04,671 | INFO | monthly report generated for user_id=8
+2026-07-29 10:18:06,720 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:18:08,399 | INFO | Analytics calculated for user_id=8
+2026-07-29 10:18:08,442 | INFO | Charts generated for user_id=8
+2026-07-29 10:18:09,981 | INFO | Charts generated for user_id=8
+2026-07-29 10:41:58,480 | INFO | HabitSphere server stopped
+2026-07-30 17:26:01,770 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-07-30 17:26:41,629 | WARNING | Invalid login attempt for email=dineshajay874@gmail.com
+2026-07-30 17:26:45,192 | WARNING | Invalid login attempt for email=dineshajay874@gmail.com
+2026-07-30 17:26:46,603 | WARNING | Invalid login attempt for email=dineshajay874@gmail.com
+2026-07-30 17:27:13,405 | INFO | User logged in: user_id=8
+2026-07-30 17:27:13,408 | INFO | Created session for user_id=8
+2026-07-30 17:27:13,466 | INFO | Dashboard statistics generated for user_id=8
+2026-07-30 17:27:13,502 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:27:35,400 | INFO | Completion recorded: habit_id=7 user_id=8
+2026-07-30 17:27:35,431 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:27:35,451 | INFO | Dashboard statistics generated for user_id=8
+2026-07-30 17:27:35,473 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:27:40,834 | INFO | Dashboard statistics generated for user_id=8
+2026-07-30 17:27:40,860 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:27:50,201 | INFO | Completion recorded: habit_id=7 user_id=8
+2026-07-30 17:27:50,231 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:27:50,250 | INFO | Dashboard statistics generated for user_id=8
+2026-07-30 17:27:50,269 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:28:37,410 | INFO | Habit created: habit_id=8 user_id=8
+2026-07-30 17:28:37,438 | INFO | Dashboard statistics generated for user_id=8
+2026-07-30 17:28:42,718 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:28:49,920 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:28:49,970 | INFO | daily report generated for user_id=8
+2026-07-30 17:28:51,802 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:28:51,814 | INFO | weekly report generated for user_id=8
+2026-07-30 17:28:53,023 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:28:53,036 | INFO | monthly report generated for user_id=8
+2026-07-30 17:28:53,994 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:28:54,737 | INFO | Charts generated for user_id=8
+2026-07-30 17:29:18,878 | INFO | Completion recorded: habit_id=8 user_id=8
+2026-07-30 17:29:18,926 | INFO | Analytics calculated for user_id=8
+2026-07-30 17:29:18,945 | INFO | Dashboard statistics generated for user_id=8
+2026-07-30 17:29:18,982 | INFO | Analytics calculated for user_id=8
+2026-07-31 13:53:56,477 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-07-31 14:05:50,558 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-31 14:05:50,657 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-31 14:06:08,422 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-07-31 14:06:08,422 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:40:58,989 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-08-01 16:41:44,144 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:41:44,248 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:42:05,861 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:42:05,861 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:42:32,637 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:42:32,637 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:04,353 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:04,362 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,264 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,265 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,420 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,420 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,592 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,595 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,821 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:05,825 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:21,912 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-01 16:43:21,917 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-02 13:28:59,403 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-08-02 13:30:48,308 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Access denied for user 'root'@'localhost' (using password: YES)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-02 13:30:48,412 | ERROR | Authentication request failed: Database connection failed: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2026-08-02 18:21:35,051 | INFO | HabitSphere server stopped
+2026-08-02 18:21:40,897 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-08-02 18:22:24,785 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown database 'habit_tracker'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:22:24,801 | ERROR | Authentication request failed: Database connection failed: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:24:14,863 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown database 'habit_tracker'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:24:14,863 | ERROR | Authentication request failed: Database connection failed: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:24:18,230 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown database 'habit_tracker'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:24:18,239 | ERROR | Authentication request failed: Database connection failed: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:24:21,538 | ERROR | Database connection failed
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 354, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Unknown database 'habit_tracker'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\Downloads\HabitSphere\HabitSphere\habit_tracker.py", line 108, in connect
+    connection = mysql.connector.connect(**connection_config)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\pooling.py", line 322, in connect
+    return CMySQLConnection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 142, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\abstracts.py", line 1604, in connect
+    self._open_connection()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python311\Lib\site-packages\mysql\connector\connection_cext.py", line 360, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:24:21,540 | ERROR | Authentication request failed: Database connection failed: 1049 (42000): Unknown database 'habit_tracker'
+2026-08-02 18:33:18,906 | INFO | HabitSphere server stopped
+2026-08-02 18:33:22,380 | INFO | HabitSphere server started at http://127.0.0.1:8000
+2026-08-02 18:34:06,018 | WARNING | Invalid login attempt for email=dineshajay874@gmail.com
+2026-08-02 18:35:14,408 | INFO | Registered user_id=1
+2026-08-02 18:35:22,971 | WARNING | Invalid login attempt for email=naresh@gmail.com
+2026-08-02 18:35:45,924 | INFO | User logged in: user_id=1
+2026-08-02 18:35:45,928 | INFO | Created session for user_id=1
+2026-08-02 18:35:45,968 | INFO | Analytics calculated for user_id=1
+2026-08-02 18:35:45,975 | INFO | Dashboard statistics generated for user_id=1
+2026-08-02 18:35:58,043 | INFO | Analytics calculated for user_id=1
+2026-08-02 18:36:29,885 | INFO | Analytics calculated for user_id=1
+2026-08-02 18:36:32,810 | INFO | Analytics calculated for user_id=1
+2026-08-02 18:36:32,935 | INFO | daily report generated for user_id=1
